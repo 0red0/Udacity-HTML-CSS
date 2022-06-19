@@ -1,0 +1,31 @@
+<body>
+<div class="test">
+  <span class="neon orange">.neon.orange</span>
+  <span class="neon red">.neon.red</span>
+  <span class="neon blue">.neon.blue</span>
+  <span class="neon green">.neon.green</span>
+  <span class="neon purple">.neon.purple</span>
+  <span class="neon cyan">.neon.cyan</span>
+  <span class="neon yellow">.neon.yellow</span>
+</div>
+
+<span class="red">&lt;code&gt;</span>
+<div class="code">
+  <span class="comment">/* Comment */</span><br/>
+  <span class="neon blue">const</span>
+  <span class="neon purple">const</span>
+  =
+  <span class="neon green">"test"</span>;
+  
+  <br/><br/>
+  
+  <span class="neon orange">function</span>
+  <span class="neon cyan">testFunction</span>() {
+    <div class="indent">
+      <span class="blue">return</span>
+      <span class="neon purple">const</span>;
+    </div>
+  }
+</div>
+<span class="red">&lt;/code&gt;</span>
+</body>

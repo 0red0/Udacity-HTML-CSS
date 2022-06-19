@@ -1,0 +1,7 @@
+https://validator.w3.org/				=html syntax validator
+https://css-tricks.com/almanac/properties/f/font/		=font properties
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element	=html tags
+https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content   =justify-content
+https://developer.mozilla.org/en-US/docs/Web/CSS/align-items   = align-items
+https://cssgrid-generator.netlify.app/			=grid app with codes
+https://devdocs.io/		=documentation of everything in the industry litterly
