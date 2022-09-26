@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: whitesmoke;
+}
+.page {
+  height: 100vh;
+  background-color: #000;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 50px 1fr 50px;
+  gap: 10px;
+  grid-template-areas: "logo logo nav nav nav" "con con con . sid" "fot fot fot fot fot";
+}
+h2 {
+  grid-area: logo;
+  background-color: lightblue;
+}
+nav {
+  grid-area: nav;
+  background-color: lightgreen;
+}
+section {
+  grid-area: con;
+  background-color: teal;
+}
+aside {
+  grid-area: sid;
+  background-color: pink;
+}
+footer {
+  grid-area: fot;
+  background-color: rgb(17, 151, 17);
+}
+ul li {
+  list-style-type: none;
+  display: inline-block;
+}
